@@ -1,0 +1,6 @@
+# Test edilen sürümler: streamlit 1.66–1.67, google-genai 2.33 ve 3.6, tavily-python 0.8.5, ddgs 9.16.1, pydantic 2.13–2.14
+streamlit>=1.66
+google-genai>=2.0
+tavily-python>=0.8
+ddgs>=9.0
+pydantic>=2.6
